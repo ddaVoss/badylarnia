@@ -1,0 +1,5 @@
+# Pozwól wszystkim wyszukiwarkom indeksować całą stronę.
+User-agent: *
+Allow: /
+
+Sitemap: https://badylarnia.pl/sitemap.xml
