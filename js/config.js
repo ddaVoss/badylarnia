@@ -21,7 +21,7 @@ window.BADYLARNIA_CONFIG = {
   // Wartości zapasowe (widoczne, gdy klucz API nie jest ustawiony
   // lub gdy zapytanie do Google się nie powiedzie).
   FALLBACK_RATING: 5.0,
-  FALLBACK_REVIEW_COUNT: 299,
+  FALLBACK_REVIEW_COUNT: 303,
 
   // Stały link do profilu Google (przycisk „zobacz wszystkie opinie”, mapa itp.)
   GOOGLE_MAPS_URL: "https://maps.google.com/?cid=17776102427744355183"
