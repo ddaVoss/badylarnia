@@ -1058,6 +1058,21 @@ section{ padding: 110px 0; }
   margin-top: 5px;
 }
 .menu-item .tags{ margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.menu-item .price{
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 500;
+  color: var(--crimson-dark);
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 12px;
+}
+.menu-footnote{
+  margin-top: 20px;
+  font-size: 12px;
+  font-style: italic;
+  color: var(--ink-faint);
+}
 .tag-mini{
   font-size: 10.5px;
   font-weight: 700;

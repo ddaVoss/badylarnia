@@ -93,17 +93,25 @@ zdjęcia dla czytników ekranu).
 
 ## Jak zmienić treść menu
 
-Menu w `menu.html` jest wpisane ręcznie (bez cennika — Google Maps pokazuje
-zdjęciowe „Popularne dania”, ale nie podaje oficjalnego cennika, więc nie
-chcieliśmy zgadywać cen). Najprościej jest:
+Menu w `menu.html` jest wpisane ręcznie. Sekcje napojowe (Kawki, Na lodzie,
+Matcha, Napoje) mają już **prawdziwe ceny** — przepisane ręcznie ze zdjęcia
+menu z Google Maps we wrześniu 2026. Sekcje z jedzeniem (Śniadania,
+Roślinne słodkości, Torty) nadal są bez cen — nie mieliśmy jeszcze zdjęcia
+tej części menu; jak się pojawi, można dopisać ceny tak samo jak przy
+napojach.
+
+Najprościej jest:
 
 - dodać / usunąć pozycję: skopiuj / usuń blok `<div class="menu-item">…</div>`,
 - dodać nową kategorię: skopiuj cały blok `<div class="menu-category">…</div>`
-  razem z `<hr class="divider">` nad nim.
+  razem z `<hr class="divider divider-lg">` nad nim,
+- dodać cenę przy pozycji, która jej jeszcze nie ma: dopisz
+  `<div class="price">14 zł</div>` jako **drugi** element wewnątrz
+  `<div class="menu-item">…</div>` (obok, nie wewnątrz, diva z `.name`/`.desc`)
+  — styl (`.menu-item .price` w `style.css`) jest już gotowy.
 
-Jeśli chcecie na stałe pokazywać ceny, wystarczy dodać np.
-`<div class="price">14 zł</div>` obok `<div class="name">…</div>` w danym
-`menu-item` (i doszlifować styl w `style.css`, sekcja „Menu page”).
+**Ceny napojów warto od czasu do czasu zweryfikować z lokalem** — łatwo się
+zdezaktualizują, jeśli kawiarnia zmieni cennik.
 
 ## Godziny otwarcia
 
