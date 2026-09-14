@@ -3,6 +3,9 @@
 Statyczna strona (czyste HTML/CSS/JS, bez żadnych instalacji) dla kawiarni
 **Badylarnia Roślinna Kawiarnia** w Luboniu.
 
+**Licencja:** wszelkie prawa zastrzeżone — zobacz [LICENSE](LICENSE) przed
+kopiowaniem lub ponownym wykorzystaniem czegokolwiek z tego repozytorium.
+
 ## Struktura plików
 
 ```

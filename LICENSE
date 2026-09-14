@@ -1,0 +1,47 @@
+Copyright (c) 2026 Dawid Ostaszkiewicz. Wszelkie prawa zastrzeżone.
+All rights reserved.
+
+---
+
+Ten kod źródłowy oraz towarzyszące mu pliki (HTML, CSS, JavaScript, treść
+i układ strony — dalej: „Utwór”), z wyłączeniem materiałów opisanych w
+sekcji „Zdjęcia” poniżej, stanowią własność intelektualną Dawida
+Ostaszkiewicza i są chronione prawem autorskim.
+
+Udostępnienie tego repozytorium (np. w celu pokazania projektu klientowi
+lub do wglądu) nie oznacza udzielenia jakiejkolwiek licencji ani zgody na
+korzystanie z Utworu. Bez wyraźnej pisemnej zgody autora zabronione jest:
+
+  - kopiowanie, powielanie, publikowanie lub rozpowszechnianie Utworu,
+    w całości lub w części,
+  - wykorzystywanie Utworu (kodu, layoutu, treści) do budowy innych stron
+    lub produktów, własnych lub na rzecz osób trzecich,
+  - modyfikowanie i dalsza redystrybucja Utworu,
+  - wykorzystywanie Utworu w celach komercyjnych przez podmioty inne niż
+    autor.
+
+Docelowe prawa do Utworu (np. pełne przeniesienie na klienta, dla którego
+Utwór powstał) reguluje odrębna umowa/ustalenia między autorem a klientem —
+w razie sprzeczności pierwszeństwo mają postanowienia tej umowy, w
+szczególności po dokonaniu pełnej zapłaty za wykonaną usługę.
+
+## Zdjęcia (folder images/, logo.jpg)
+
+Powyższe zastrzeżenie praw NIE dotyczy zdjęć w folderze `images/` ani
+`logo.jpg` — te pochodzą z publicznie dostępnego profilu „Badylarnia
+Roślinna Kawiarnia” w Google Maps oraz z Facebooka (część zrobili i
+wrzucili goście lokalu — patrz [README.md](README.md)). Prawa do tych
+zdjęć należą do ich twórców/publikujących, nie do autora tego kodu.
+
+## Kontakt w sprawie licencjonowania
+
+dawid.ostaszkiewicz@gmail.com
+
+---
+
+*Uwaga: to jest zwykłe zastrzeżenie praw autorskich, nie porada prawna.
+Nawet bez tego pliku kod jest domyślnie chroniony prawem autorskim —
+ten dokument tylko jasno to komunikuje i zapobiega niejasnościom. Jeśli z
+klientem obowiązuje już podpisana umowa regulująca przeniesienie praw,
+ten plik powinien być z nią spójny (daj znać, jeśli trzeba coś doprecyzować
+albo dopisać konkretne warunki umowy).*
